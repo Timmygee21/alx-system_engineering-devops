@@ -1,4 +1,4 @@
-![Osi Model](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T030348Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6f9bea4323217aec6809467421dfe1da95519114abba5e4fabc67e54b47d1638)
+![Osi Model](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png)
 
 
 In this project we will mainly focus on: <br>
