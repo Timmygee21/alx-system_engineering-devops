@@ -1,7 +1,7 @@
-OSI Model
-What it is
-How many layers it has
-How it is organized
+OSI Model <br>
+What it is <br>
+How many layers it has <br>
+How it is organized <br>
 
 
 What is a LAN
@@ -25,4 +25,4 @@ What is the main difference between TCP and UDP
 What is a port
 
 Memorize SSH, HTTP and HTTPS port numbers
-What tool/protocol is often used to check if a device is connected to a network
+[[IWhat tool/protocol is often used to check if a device is connected to a network
