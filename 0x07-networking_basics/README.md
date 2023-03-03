@@ -4,25 +4,32 @@ How many layers it has <br>
 How it is organized <br>
 
 
-What is a LAN
-Typical usage
-Typical geographical size
+What is a LAN <br>
+Typical usage <br>
+Typical geographical size <br>
 
-What is a WAN
-Typical usage
-Typical geographical size
+What is a WAN <br>
+Typical usage <br>
+Typical geographical size <br>
 
-What is the Internet
-What is an IP address
-What are the 2 types of IP address
-What is localhost
-What is a subnet
-Why IPv6 was created
+What is the Internet <br>
+What is an IP address <br>
+What are the 2 types of IP address <br>
+What is localhost <br>
+What is a subnet <br>
+Why IPv6 was created <br>
 
-TCP/UDP
-What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
-What is the main difference between TCP and UDP
-What is a port
+TCP/UDP <br>
+What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema) <br>
+What is the main difference between TCP and UDP <br>
+What is a port <br>
 
-Memorize SSH, HTTP and HTTPS port numbers
-[[IWhat tool/protocol is often used to check if a device is connected to a network
+Memorize SSH, HTTP and HTTPS port numbers <br> 
+[[IWhat tool/protocol is often used to check if a device is connected to a network <br>
+
+
+What is the most important position in a software company? <br>
+
+Project manager <br>
+Backend developer <br>
+System administrator <br>
