@@ -1,4 +1,3 @@
-![Osi Model](Downloads/Osi Model.png)
 
 OSI Model <br>
 What it is <br>
