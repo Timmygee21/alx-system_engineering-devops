@@ -1,4 +1,4 @@
-![Osi Model](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png)
+![Model](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T030348Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6f9bea4323217aec6809467421dfe1da95519114abba5e4fabc67e54b47d1638)
 
 
 In this project we will mainly focus on: <br>
@@ -6,7 +6,6 @@ In this project we will mainly focus on: <br>
 The Transport layer and especially TCP/UDP <br>
 On the Network layer with IP and ICMP <br>
 The image bellow describes more concretely how you can relate to every level <br>
-![Level](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230303T030348Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=692eabcc60e1b035528017f1757bf6f223326d4e57d945ddc09f876adbc04ec2)
 
 Questions: <br>
 
