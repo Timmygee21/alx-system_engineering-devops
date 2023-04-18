@@ -1,6 +1,6 @@
 # ALX SYSTEM ENGINEERING - DEVOPS
 
-![system](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png)
+![system](https://github.com/Timmygee21/alx-system_engineering-devops/blob/master/new.png)
 
 
 Devop system Engineering Project
@@ -14,11 +14,11 @@ Submit a pull request with your changes and a detailed description of what you'v
 
 # AUTHOR:
 TIMOTHY OLORUNTOLA
-* https://github.com/Timmygee21
-* https://twitter.com/Timmygee_Prints
-* https://linkedin.com/timothy-oloruntola
-* https://saytimmy@gmail.com/
+* [Github](https://github.com/Timmygee21)
+* [twitter](https://twitter.com/Timmygee_Prints)
+* [linkedin](https://linkedin.com/timothy-oloruntola)
+* [E-mail](https://saytimmy@gmail.com//)
 
 # Acknowledgements 🙏
 
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this https://www.alxafrica.com/software-engineering-2022 for further information
+All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this [website](https://www.alxafrica.com/software-engineering-2022) for further information
