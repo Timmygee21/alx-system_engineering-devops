@@ -16,7 +16,7 @@ Submit a pull request with your changes and a detailed description of what you'v
 TIMOTHY OLORUNTOLA
 * [Github](https://github.com/Timmygee21)
 * [twitter](https://twitter.com/Timmygee_Prints)
-* [linkedin](https://linkedin.com/timothy-oloruntola)
+* [linkedin](https://www.linkedin.com/in/timothy-oloruntola)
 * [E-mail](https://saytimmy@gmail.com//)
 
 # Acknowledgements 🙏
