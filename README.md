@@ -1,6 +1,6 @@
 # ALX SYSTEM ENGINEERING - DEVOPS
 
-![system](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png)
+[![system](https://github.com/Karlie-crypto/alx-system_engineering-devops/blob/master/new.png)](https://github.com/Timmygee21/alx-system_engineering-devops)
 
 
 Devop system Engineering Project  
