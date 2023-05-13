@@ -10,5 +10,5 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-
+![web](https://user-images.githubusercontent.com/110098940/231384230-42dddc7f-7968-4617-bcb2-08e198fa7b0e.png)
 
