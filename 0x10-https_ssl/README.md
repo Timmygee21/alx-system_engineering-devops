@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+![HTTPS SSL]()
+
+SSL stands for Secure Sockets Layer and, in short, it's the standard technology for keeping an internet connection secure and safeguarding any sensitive data that is being sent between two systems, preventing criminals from reading and modifying any information transferred, including potential personal details. The two systems can be a server and a client (for example, a shopping website and browser) or server to server (for example, an application with personal identifiable information or with payroll information).  
+
+HTTPS (Hyper Text Transfer Protocol Secure) appears in the URL when a website is secured by an SSL certificate. The details of the certificate, including the issuing authority and the corporate name of the website owner, can be viewed by clicking on the lock symbol on the browser bar.  
+
+What happens when you don’t secure your website traffic?
+=======
 # 0x10. HTTPS SSL  
 
 ![web servers](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/FlhGPEK.png)  
@@ -47,3 +56,4 @@ $ cat cert_key_1 cert_key_2 > /etc/ssl/private/any_desired_name.pem
 $ sudo service haproxy reload
 ```
 
+>>>>>>> 26e70d9975b6f33a8fc516ca53ea39c5d5ea8421
