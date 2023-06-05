@@ -6,7 +6,7 @@ A postmortem is a tool widely used in the tech industry. After any outage, the t
 - To provide the rest of the company’s employees easy access to information detailing the cause of the outage. Often outages can have a huge impact on a company, so managers and executives have to understand what happened and how it will impact their work.  
 - And to ensure that the root cause(s) of the outage has been discovered and that measures are taken to make sure it will be fixed.  
 
-![posmortem](https://twitter.com/devopsreact/status/834887829486399488)
+![post](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/294/pQ9YzVY.gif)
 
 # Being on-call
 - (of a person) able to be contacted in order to provide a professional service if necessary, but not formally on duty.  
@@ -31,6 +31,7 @@ This does not happen magically. Software engineers are building reliable systems
 
 ![setup](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/35d138aa05cb69a538bd539ce2304eda50f74215.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T110100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2108d6cc74a9021d7b32c05e168166d38bc372e92ae1975c701e5bd8e6b06b6b)
 
+![set](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/35d138aa05cb69a538bd539ce2304eda50f74215.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T111248Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3c5c2c21c036470c51316f7d26dcbc82e7d08744971d0316d75d5df8d270e65)
 * A service or website you want to monitor  
 You can monitor thousands of things:  
 
