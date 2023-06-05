@@ -29,9 +29,6 @@ This does not happen magically. Software engineers are building reliable systems
 - An oncall management system  
 - A software engineer (that’s you)  
 
-![setup](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/35d138aa05cb69a538bd539ce2304eda50f74215.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T110100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2108d6cc74a9021d7b32c05e168166d38bc372e92ae1975c701e5bd8e6b06b6b)
-
-![set](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/35d138aa05cb69a538bd539ce2304eda50f74215.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T111248Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3c5c2c21c036470c51316f7d26dcbc82e7d08744971d0316d75d5df8d270e65)
 * A service or website you want to monitor  
 You can monitor thousands of things:  
 
