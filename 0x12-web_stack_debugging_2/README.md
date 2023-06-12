@@ -14,6 +14,7 @@ The idea is to ask a set of questions until you find the issue. For example, if 
 * Is there a firewall enabled?  
 * Have you looked at logs? - usually in /var/log and tail -f is your friend  
 * Can I connect to the HTTP port from the location I am browsing from? - curl is your friend  
+
 There is a good chance that at this point you will already have found part of the issue.
 
 - Get a quick overview of the machine state  
