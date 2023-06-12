@@ -1,13 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+#Run software as another user
 
-# Check if an argument is provided
-if [ $# -eq 0 ]; then
-    echo "Error: Please provide a username as an argument."
-    exit 1
-fi
-
-# Store the first argument (username)
-username=$1
-
-# Run the 'whoami' command for the specified user
 sudo -u "$username" whoami
