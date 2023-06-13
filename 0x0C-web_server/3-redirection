@@ -1,11 +1,22 @@
 #!/usr/bin/env bash
-# Configure Nginx server so that /redirect_me is redirecting to another page.
-# But the main domain still shows Hello world
 
-apt-get update -y && apt-get upgrade -y
+# Update and upgrade system packages
+apt-get update -y
+apt-get upgrade -y
+
+# Install Nginx
 apt-get install nginx -y
+
+# Set ownership of web directory
 chown -R "$USER":"$USER" /var/www/html
+
+# Create index.html file
 echo "Hello World!" > /var/www/html/index.nginx-debian.html
-line="\\\\tlocation /redirect_me {\n\t\treturn 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;\n\t}"
-sed -i "48i $line" /etc/nginx/sites-available/default
+
+# Configure Nginx to redirect /redirect_me to another page
+line="    location /redirect_me {\n        return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;\n    }"
+sed -i "43i $line" /etc/nginx/sites-available/default
+
+# Restart Nginx service
 service nginx restart
+
