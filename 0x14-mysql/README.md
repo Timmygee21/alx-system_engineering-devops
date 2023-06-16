@@ -2,6 +2,7 @@
 
 ![SQL](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/280/KkrkDHT.png)  
 
+
 How to Install mysql 5.7  
 - Copy the key here to your clipboard  
 https://dev.mysql.com/doc/refman/5.7/en/checking-gpg-signature.html  
